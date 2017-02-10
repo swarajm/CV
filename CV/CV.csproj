@@ -107,7 +107,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Style Library\CSS\master.css" />
+    <Content Include="Style Library\Images\Angular_80x80.png" />
+    <Content Include="Style Library\Images\CSS3_80x80.png" />
     <Content Include="Style Library\Images\front-end-development1.png" />
+    <Content Include="Style Library\Images\HTML 5 80x80.png" />
+    <Content Include="Style Library\Images\Jquery_80x80.png" />
+    <Content Include="Style Library\Images\JS 80x80.png" />
+    <Content Include="Style Library\Images\TS_80x80.png" />
     <Content Include="Style Library\Images\WhatsApp.png" />
     <Content Include="Style Library\Images\Gmail.png" />
     <Content Include="Style Library\Images\facebook.png" />
